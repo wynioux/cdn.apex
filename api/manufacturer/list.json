@@ -1,0 +1,964 @@
+[
+  {
+    "id": 3,
+    "name": "Alfa Romeo",
+    "region": "europe",
+    "country": "it",
+    "city": "Milan",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/3/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/3/logo_light.png"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Aston Martin",
+    "region": "europe",
+    "country": "gb",
+    "city": "Gaydon",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/4/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/4/logo_light.png"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Audi",
+    "region": "europe",
+    "country": "de",
+    "city": "Ingolstadt",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/5/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/5/logo_light.png"
+    }
+  },
+  {
+    "id": 6,
+    "name": "BMW",
+    "region": "europe",
+    "country": "de",
+    "city": "Munich",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/6/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/6/logo_light.png"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Chevrolet",
+    "region": "america",
+    "country": "us",
+    "city": "Detroit",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/7/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/7/logo_light.png"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Citroën",
+    "region": "europe",
+    "country": "fr",
+    "city": "Paris",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/9/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/9/logo_light.png"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Daihatsu",
+    "region": "asia",
+    "country": "jp",
+    "city": "Ikeda",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/10/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/10/logo_light.png"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Dodge",
+    "region": "america",
+    "country": "us",
+    "city": "Auburn Hills",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/11/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/11/logo_light.png"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Fiat",
+    "region": "europe",
+    "country": "it",
+    "city": "Turin",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/12/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/12/logo_light.png"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Ford",
+    "region": "america",
+    "country": "us",
+    "city": "Dearborn",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/13/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/13/logo_light.png"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Honda",
+    "region": "asia",
+    "country": "jp",
+    "city": "Tokyo",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/15/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/15/logo_light.png"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Hyundai",
+    "region": "asia",
+    "country": "kr",
+    "city": "Seoul",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/16/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/16/logo_light.png"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Jaguar",
+    "region": "europe",
+    "country": "gb",
+    "city": "Coventry",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/17/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/17/logo_light.png"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Lancia",
+    "region": "europe",
+    "country": "it",
+    "city": "Turin",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/18/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/18/logo_light.png"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Mazda",
+    "region": "asia",
+    "country": "jp",
+    "city": "Hiroshima",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/21/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/21/logo_light.png"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Mercedes-Benz",
+    "region": "europe",
+    "country": "de",
+    "city": "Stuttgart",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/22/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/22/logo_light.png"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Mitsubishi",
+    "region": "asia",
+    "country": "jp",
+    "city": "Tokyo",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/25/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/25/logo_light.png"
+    }
+  },
+  {
+    "id": 28,
+    "name": "Nissan",
+    "region": "asia",
+    "country": "jp",
+    "city": "Yokohama",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/28/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/28/logo_light.png"
+    }
+  },
+  {
+    "id": 30,
+    "name": "Pagani",
+    "region": "europe",
+    "country": "it",
+    "city": "San Cesario sul Panaro",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/30/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/30/logo_light.png"
+    }
+  },
+  {
+    "id": 32,
+    "name": "Peugeot",
+    "region": "europe",
+    "country": "fr",
+    "city": "Paris",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/32/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/32/logo_light.png"
+    }
+  },
+  {
+    "id": 33,
+    "name": "Gran Turismo",
+    "region": "asia",
+    "country": "jp",
+    "city": "Tokyo",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/33/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/33/logo_light.png"
+    }
+  },
+  {
+    "id": 34,
+    "name": "Renault",
+    "region": "europe",
+    "country": "fr",
+    "city": "Boulogne-Billancourt",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/34/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/34/logo_light.png"
+    }
+  },
+  {
+    "id": 35,
+    "name": "RUF",
+    "region": "europe",
+    "country": "de",
+    "city": "Pfaffenhausen",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/35/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/35/logo_light.png"
+    }
+  },
+  {
+    "id": 36,
+    "name": "Shelby",
+    "region": "america",
+    "country": "us",
+    "city": "Las Vegas",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/36/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/36/logo_light.png"
+    }
+  },
+  {
+    "id": 38,
+    "name": "Subaru",
+    "region": "asia",
+    "country": "jp",
+    "city": "Tokyo",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/38/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/38/logo_light.png"
+    }
+  },
+  {
+    "id": 39,
+    "name": "Suzuki",
+    "region": "asia",
+    "country": "jp",
+    "city": "Hamamatsu",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/39/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/39/logo_light.png"
+    }
+  },
+  {
+    "id": 43,
+    "name": "Toyota",
+    "region": "asia",
+    "country": "jp",
+    "city": "Toyota City",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/43/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/43/logo_light.png"
+    }
+  },
+  {
+    "id": 44,
+    "name": "TVR",
+    "region": "europe",
+    "country": "gb",
+    "city": "Blackpool",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/44/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/44/logo_light.png"
+    }
+  },
+  {
+    "id": 46,
+    "name": "Volkswagen",
+    "region": "europe",
+    "country": "de",
+    "city": "Wolfsburg",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/46/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/46/logo_light.png"
+    }
+  },
+  {
+    "id": 49,
+    "name": "Infiniti",
+    "region": "america",
+    "country": "us",
+    "city": "Yokohama",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/49/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/49/logo_light.png"
+    }
+  },
+  {
+    "id": 50,
+    "name": "Lexus",
+    "region": "asia",
+    "country": "jp",
+    "city": "Nagoya",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/50/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/50/logo_light.png"
+    }
+  },
+  {
+    "id": 51,
+    "name": "Mini",
+    "region": "europe",
+    "country": "de",
+    "city": "Oxford",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/51/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/51/logo_light.png"
+    }
+  },
+  {
+    "id": 52,
+    "name": "Pontiac",
+    "region": "america",
+    "country": "us",
+    "city": "Detroit",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/52/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/52/logo_light.png"
+    }
+  },
+  {
+    "id": 55,
+    "name": "Plymouth",
+    "region": "america",
+    "country": "us",
+    "city": "Detroit",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/55/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/55/logo_light.png"
+    }
+  },
+  {
+    "id": 57,
+    "name": "Autobianchi",
+    "region": "europe",
+    "country": "it",
+    "city": "Milan",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/57/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/57/logo_light.png"
+    }
+  },
+  {
+    "id": 59,
+    "name": "Amuse",
+    "region": "asia",
+    "country": "jp",
+    "city": "Tokyo",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/59/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/59/logo_light.png"
+    }
+  },
+  {
+    "id": 65,
+    "name": "DMC",
+    "region": "america",
+    "country": "us",
+    "city": "Humble",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/65/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/65/logo_light.png"
+    }
+  },
+  {
+    "id": 69,
+    "name": "Volvo",
+    "region": "europe",
+    "country": "se",
+    "city": "Gothenburg",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/69/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/69/logo_light.png"
+    }
+  },
+  {
+    "id": 86,
+    "name": "Alpine",
+    "region": "europe",
+    "country": "fr",
+    "city": "Dieppe",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/86/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/86/logo_light.png"
+    }
+  },
+  {
+    "id": 87,
+    "name": "RE Amemiya",
+    "region": "asia",
+    "country": "jp",
+    "city": "Chiba",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/87/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/87/logo_light.png"
+    }
+  },
+  {
+    "id": 93,
+    "name": "Chaparral",
+    "region": "america",
+    "country": "us",
+    "city": "Midland",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/93/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/93/logo_light.png"
+    }
+  },
+  {
+    "id": 110,
+    "name": "Ferrari",
+    "region": "europe",
+    "country": "it",
+    "city": "Maranello",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/110/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/110/logo_light.png"
+    }
+  },
+  {
+    "id": 112,
+    "name": "Lamborghini",
+    "region": "europe",
+    "country": "it",
+    "city": "Sant'Agata Bolognese",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/112/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/112/logo_light.png"
+    }
+  },
+  {
+    "id": 113,
+    "name": "Bugatti",
+    "region": "europe",
+    "country": "fr",
+    "city": "Molsheim",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/113/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/113/logo_light.png"
+    }
+  },
+  {
+    "id": 116,
+    "name": "Maserati",
+    "region": "europe",
+    "country": "it",
+    "city": "Modena",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/116/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/116/logo_light.png"
+    }
+  },
+  {
+    "id": 117,
+    "name": "McLaren",
+    "region": "europe",
+    "country": "gb",
+    "city": "Woking",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/117/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/117/logo_light.png"
+    }
+  },
+  {
+    "id": 119,
+    "name": "Tesla Motors",
+    "region": "america",
+    "country": "us",
+    "city": "Austin",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/119/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/119/logo_light.png"
+    }
+  },
+  {
+    "id": 121,
+    "name": "KTM",
+    "region": "europe",
+    "country": "at",
+    "city": "Mattighofen",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/121/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/121/logo_light.png"
+    }
+  },
+  {
+    "id": 125,
+    "name": "Abarth",
+    "region": "europe",
+    "country": "it",
+    "city": "Turin",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/125/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/125/logo_light.png"
+    }
+  },
+  {
+    "id": 134,
+    "name": "Zagato",
+    "region": "europe",
+    "country": "it",
+    "city": "Milan",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/134/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/134/logo_light.png"
+    }
+  },
+  {
+    "id": 135,
+    "name": "Italdesign",
+    "region": "europe",
+    "country": "it",
+    "city": "Moncalieri",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/135/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/135/logo_light.png"
+    }
+  },
+  {
+    "id": 136,
+    "name": "Porsche",
+    "region": "europe",
+    "country": "de",
+    "city": "Stuttgart",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/136/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/136/logo_light.png"
+    }
+  },
+  {
+    "id": 140,
+    "name": "De Tomaso",
+    "region": "europe",
+    "country": "it",
+    "city": "Modena",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/140/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/140/logo_light.png"
+    }
+  },
+  {
+    "id": 141,
+    "name": "Radical",
+    "region": "europe",
+    "country": "gb",
+    "city": "Peterborough",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/141/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/141/logo_light.png"
+    }
+  },
+  {
+    "id": 143,
+    "name": "Super Formula",
+    "region": "asia",
+    "country": "jp",
+    "city": "Tokyo",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/143/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/143/logo_light.png"
+    }
+  },
+  {
+    "id": 144,
+    "name": "BAC",
+    "region": "europe",
+    "country": "gb",
+    "city": "Liverpool",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/144/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/144/logo_light.png"
+    }
+  },
+  {
+    "id": 146,
+    "name": "Jeep",
+    "region": "america",
+    "country": "us",
+    "city": "Auburn Hills",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/146/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/146/logo_light.png"
+    }
+  },
+  {
+    "id": 147,
+    "name": "Chris Holstrom Concepts",
+    "region": "america",
+    "country": "us",
+    "city": "Phoenix",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/147/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/147/logo_light.png"
+    }
+  },
+  {
+    "id": 148,
+    "name": "Eckert's Rod & Custom Inc.",
+    "region": "america",
+    "country": "us",
+    "city": "Escondido",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/148/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/148/logo_light.png"
+    }
+  },
+  {
+    "id": 149,
+    "name": "GReddy",
+    "region": "america",
+    "country": "us",
+    "city": "Irvine",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/149/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/149/logo_light.png"
+    }
+  },
+  {
+    "id": 150,
+    "name": "Wicked Fabrication",
+    "region": "america",
+    "country": "us",
+    "city": "Scottsdale",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/150/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/150/logo_light.png"
+    }
+  },
+  {
+    "id": 151,
+    "name": "Roadster Shop",
+    "region": "america",
+    "country": "us",
+    "city": "Mundelein",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/151/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/151/logo_light.png"
+    }
+  },
+  {
+    "id": 152,
+    "name": "Genesis",
+    "region": "asia",
+    "country": "kr",
+    "city": "Seoul",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/152/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/152/logo_light.png"
+    }
+  },
+  {
+    "id": 153,
+    "name": "AMG",
+    "region": "europe",
+    "country": "de",
+    "city": "Affalterbach",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/153/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/153/logo_light.png"
+    }
+  },
+  {
+    "id": 154,
+    "name": "DS Automobiles",
+    "region": "europe",
+    "country": "fr",
+    "city": "Paris",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/154/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/154/logo_light.png"
+    }
+  },
+  {
+    "id": 155,
+    "name": "Nismo",
+    "region": "asia",
+    "country": "jp",
+    "city": "Yokohama",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/155/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/155/logo_light.png"
+    }
+  },
+  {
+    "id": 156,
+    "name": "Greening Auto Company",
+    "region": "america",
+    "country": "us",
+    "city": "Searcy",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/156/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/156/logo_light.png"
+    }
+  },
+  {
+    "id": 157,
+    "name": "Garage RCR",
+    "region": "america",
+    "country": "us",
+    "city": "Bakersfield",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/157/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/157/logo_light.png"
+    }
+  },
+  {
+    "id": 158,
+    "name": "BVLGARI",
+    "region": "europe",
+    "country": "it",
+    "city": "Rome",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/158/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/158/logo_light.png"
+    }
+  },
+  {
+    "id": 159,
+    "name": "Škoda",
+    "region": "europe",
+    "country": "cz",
+    "city": "Mladá Boleslav",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/159/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/159/logo_light.png"
+    }
+  },
+  {
+    "id": 160,
+    "name": "AFEELA",
+    "region": "asia",
+    "country": "jp",
+    "city": "Tokyo",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/160/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/160/logo_light.png"
+    }
+  },
+  {
+    "id": 161,
+    "name": "Opel",
+    "region": "europe",
+    "country": "de",
+    "city": "Rüsselsheim",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/161/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/161/logo_light.png"
+    }
+  },
+  {
+    "id": 162,
+    "name": "Polestar",
+    "region": "europe",
+    "country": "se",
+    "city": "Gothenburg",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/162/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/162/logo_light.png"
+    }
+  },
+  {
+    "id": 163,
+    "name": "Mine's",
+    "region": "asia",
+    "country": "jp",
+    "city": "Tokyo",
+    "logo": {
+      "width": 640,
+      "height": 480,
+      "darkURL": "/assets/images/manufacturers/163/logo_dark.png",
+      "lightURL": "/assets/images/manufacturers/163/logo_light.png"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": 17,
+  "name": "Jaguar",
+  "region": "europe",
+  "country": "gb",
+  "city": "Coventry",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/17/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/17/logo_light.png"
+  },
+  "website": "https://www.jaguar.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Jaguar_Cars"
+}

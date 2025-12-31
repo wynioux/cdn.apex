@@ -1,0 +1,15 @@
+{
+  "id": 147,
+  "name": "Chris Holstrom Concepts",
+  "region": "america",
+  "country": "us",
+  "city": "Phoenix",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/147/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/147/logo_light.png"
+  },
+  "website": "https://www.chrisholstromconcepts.com",
+  "wikipedia": null
+}

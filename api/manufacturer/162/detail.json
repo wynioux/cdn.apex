@@ -1,0 +1,15 @@
+{
+  "id": 162,
+  "name": "Polestar",
+  "region": "europe",
+  "country": "se",
+  "city": "Gothenburg",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/162/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/162/logo_light.png"
+  },
+  "website": "https://www.polestar.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Polestar"
+}

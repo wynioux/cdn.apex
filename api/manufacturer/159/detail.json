@@ -1,0 +1,15 @@
+{
+  "id": 159,
+  "name": "Škoda",
+  "region": "europe",
+  "country": "cz",
+  "city": "Mladá Boleslav",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/159/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/159/logo_light.png"
+  },
+  "website": "https://www.skoda-auto.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/%C5%A0koda_Auto"
+}

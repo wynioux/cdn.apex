@@ -1,0 +1,15 @@
+{
+  "id": 12,
+  "name": "Fiat",
+  "region": "europe",
+  "country": "it",
+  "city": "Turin",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/12/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/12/logo_light.png"
+  },
+  "website": "https://www.fiat.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Fiat"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 44,
+  "name": "TVR",
+  "region": "europe",
+  "country": "gb",
+  "city": "Blackpool",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/44/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/44/logo_light.png"
+  },
+  "website": "https://www.tvr.co.uk",
+  "wikipedia": "https://en.wikipedia.org/wiki/TVR"
+}

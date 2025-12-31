@@ -1,0 +1,15 @@
+{
+  "id": 3,
+  "name": "Alfa Romeo",
+  "region": "europe",
+  "country": "it",
+  "city": "Milan",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/3/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/3/logo_light.png"
+  },
+  "website": "https://www.alfaromeo.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Alfa_Romeo"
+}

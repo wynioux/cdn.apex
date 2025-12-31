@@ -1,0 +1,15 @@
+{
+  "id": 134,
+  "name": "Zagato",
+  "region": "europe",
+  "country": "it",
+  "city": "Milan",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/134/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/134/logo_light.png"
+  },
+  "website": "https://www.zagato.it",
+  "wikipedia": "https://en.wikipedia.org/wiki/Zagato"
+}

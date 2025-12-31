@@ -1,0 +1,15 @@
+{
+  "id": 65,
+  "name": "DMC",
+  "region": "america",
+  "country": "us",
+  "city": "Humble",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/65/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/65/logo_light.png"
+  },
+  "website": "https://www.delorean.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/DeLorean_Motor_Company"
+}

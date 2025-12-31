@@ -1,0 +1,15 @@
+{
+  "id": 136,
+  "name": "Porsche",
+  "region": "europe",
+  "country": "de",
+  "city": "Stuttgart",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/136/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/136/logo_light.png"
+  },
+  "website": "https://www.porsche.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Porsche"
+}

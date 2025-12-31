@@ -1,0 +1,15 @@
+{
+  "id": 140,
+  "name": "De Tomaso",
+  "region": "europe",
+  "country": "it",
+  "city": "Modena",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/140/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/140/logo_light.png"
+  },
+  "website": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/De_Tomaso"
+}

@@ -1,0 +1,15 @@
+{
+  "id": 39,
+  "name": "Suzuki",
+  "region": "asia",
+  "country": "jp",
+  "city": "Hamamatsu",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/39/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/39/logo_light.png"
+  },
+  "website": "https://www.suzuki.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Suzuki"
+}

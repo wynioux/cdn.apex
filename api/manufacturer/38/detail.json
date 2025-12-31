@@ -1,0 +1,15 @@
+{
+  "id": 38,
+  "name": "Subaru",
+  "region": "asia",
+  "country": "jp",
+  "city": "Tokyo",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/38/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/38/logo_light.png"
+  },
+  "website": "https://www.subaru.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Subaru"
+}

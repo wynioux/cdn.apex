@@ -1,0 +1,15 @@
+{
+  "id": 18,
+  "name": "Lancia",
+  "region": "europe",
+  "country": "it",
+  "city": "Turin",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/18/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/18/logo_light.png"
+  },
+  "website": "https://www.lancia.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Lancia"
+}

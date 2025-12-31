@@ -1,0 +1,15 @@
+{
+  "id": 49,
+  "name": "Infiniti",
+  "region": "america",
+  "country": "us",
+  "city": "Yokohama",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/49/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/49/logo_light.png"
+  },
+  "website": "https://www.infiniti.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Infiniti"
+}

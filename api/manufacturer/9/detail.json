@@ -1,0 +1,15 @@
+{
+  "id": 9,
+  "name": "Citroën",
+  "region": "europe",
+  "country": "fr",
+  "city": "Paris",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/9/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/9/logo_light.png"
+  },
+  "website": "https://www.citroen.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Citro%C3%ABn"
+}

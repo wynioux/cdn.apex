@@ -1,0 +1,15 @@
+{
+  "id": 13,
+  "name": "Ford",
+  "region": "america",
+  "country": "us",
+  "city": "Dearborn",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/13/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/13/logo_light.png"
+  },
+  "website": "https://www.ford.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Ford_Motor_Company"
+}

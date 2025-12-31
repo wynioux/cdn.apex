@@ -1,0 +1,15 @@
+{
+  "id": 121,
+  "name": "KTM",
+  "region": "europe",
+  "country": "at",
+  "city": "Mattighofen",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/121/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/121/logo_light.png"
+  },
+  "website": "https://www.ktm.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/KTM"
+}

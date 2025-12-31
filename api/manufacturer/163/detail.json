@@ -1,0 +1,15 @@
+{
+  "id": 163,
+  "name": "Mine's",
+  "region": "asia",
+  "country": "jp",
+  "city": "Tokyo",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/163/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/163/logo_light.png"
+  },
+  "website": "https://www.minesjp.co.jp",
+  "wikipedia": null
+}

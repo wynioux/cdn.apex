@@ -1,0 +1,15 @@
+{
+  "id": 160,
+  "name": "AFEELA",
+  "region": "asia",
+  "country": "jp",
+  "city": "Tokyo",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/160/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/160/logo_light.png"
+  },
+  "website": "https://www.shm-afeela.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Sony_Honda_Mobility"
+}

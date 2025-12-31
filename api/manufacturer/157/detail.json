@@ -1,0 +1,15 @@
+{
+  "id": 157,
+  "name": "Garage RCR",
+  "region": "america",
+  "country": "us",
+  "city": "Bakersfield",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/157/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/157/logo_light.png"
+  },
+  "website": null,
+  "wikipedia": null
+}

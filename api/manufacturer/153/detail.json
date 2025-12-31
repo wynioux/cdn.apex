@@ -1,0 +1,15 @@
+{
+  "id": 153,
+  "name": "AMG",
+  "region": "europe",
+  "country": "de",
+  "city": "Affalterbach",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/153/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/153/logo_light.png"
+  },
+  "website": "https://www.mercedes-amg.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Mercedes-AMG"
+}

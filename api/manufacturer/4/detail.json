@@ -1,0 +1,15 @@
+{
+  "id": 4,
+  "name": "Aston Martin",
+  "region": "europe",
+  "country": "gb",
+  "city": "Gaydon",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/4/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/4/logo_light.png"
+  },
+  "website": "https://www.astonmartin.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Aston_Martin"
+}

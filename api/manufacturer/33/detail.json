@@ -1,0 +1,15 @@
+{
+  "id": 33,
+  "name": "Gran Turismo",
+  "region": "asia",
+  "country": "jp",
+  "city": "Tokyo",
+  "logo": {
+    "width": 640,
+    "height": 480,
+    "darkURL": "/assets/images/manufacturers/33/logo_dark.png",
+    "lightURL": "/assets/images/manufacturers/33/logo_light.png"
+  },
+  "website": "https://www.gran-turismo.com",
+  "wikipedia": "https://en.wikipedia.org/wiki/Gran_Turismo_(series)"
+}
