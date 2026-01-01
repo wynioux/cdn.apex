@@ -10,7 +10,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/3/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/3/logo_light.png"
-    }
+    },
+    "website": "https://www.alfaromeo.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alfa_Romeo"
   },
   {
     "id": 4,
@@ -23,7 +25,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/4/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/4/logo_light.png"
-    }
+    },
+    "website": "https://www.astonmartin.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Aston_Martin"
   },
   {
     "id": 5,
@@ -36,7 +40,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/5/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/5/logo_light.png"
-    }
+    },
+    "website": "https://www.audi.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Audi"
   },
   {
     "id": 6,
@@ -49,7 +55,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/6/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/6/logo_light.png"
-    }
+    },
+    "website": "https://www.bmw.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/BMW"
   },
   {
     "id": 7,
@@ -62,7 +70,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/7/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/7/logo_light.png"
-    }
+    },
+    "website": "https://www.chevrolet.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Chevrolet"
   },
   {
     "id": 9,
@@ -75,7 +85,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/9/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/9/logo_light.png"
-    }
+    },
+    "website": "https://www.citroen.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Citro%C3%ABn"
   },
   {
     "id": 10,
@@ -88,7 +100,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/10/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/10/logo_light.png"
-    }
+    },
+    "website": "https://www.daihatsu.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Daihatsu"
   },
   {
     "id": 11,
@@ -101,7 +115,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/11/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/11/logo_light.png"
-    }
+    },
+    "website": "https://www.dodge.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Dodge"
   },
   {
     "id": 12,
@@ -114,7 +130,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/12/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/12/logo_light.png"
-    }
+    },
+    "website": "https://www.fiat.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Fiat"
   },
   {
     "id": 13,
@@ -127,7 +145,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/13/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/13/logo_light.png"
-    }
+    },
+    "website": "https://www.ford.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ford_Motor_Company"
   },
   {
     "id": 15,
@@ -140,7 +160,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/15/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/15/logo_light.png"
-    }
+    },
+    "website": "https://www.honda.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Honda"
   },
   {
     "id": 16,
@@ -153,7 +175,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/16/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/16/logo_light.png"
-    }
+    },
+    "website": "https://www.hyundai.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Hyundai_Motor_Company"
   },
   {
     "id": 17,
@@ -166,7 +190,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/17/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/17/logo_light.png"
-    }
+    },
+    "website": "https://www.jaguar.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jaguar_Cars"
   },
   {
     "id": 18,
@@ -179,7 +205,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/18/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/18/logo_light.png"
-    }
+    },
+    "website": "https://www.lancia.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lancia"
   },
   {
     "id": 21,
@@ -192,7 +220,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/21/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/21/logo_light.png"
-    }
+    },
+    "website": "https://www.mazda.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mazda"
   },
   {
     "id": 22,
@@ -205,7 +235,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/22/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/22/logo_light.png"
-    }
+    },
+    "website": "https://www.mercedes-benz.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mercedes-Benz"
   },
   {
     "id": 25,
@@ -218,7 +250,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/25/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/25/logo_light.png"
-    }
+    },
+    "website": "https://www.mitsubishi-motors.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mitsubishi_Motors"
   },
   {
     "id": 28,
@@ -231,7 +265,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/28/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/28/logo_light.png"
-    }
+    },
+    "website": "https://www.nissan-global.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nissan"
   },
   {
     "id": 30,
@@ -244,7 +280,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/30/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/30/logo_light.png"
-    }
+    },
+    "website": "https://www.pagani.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Pagani_Automobili"
   },
   {
     "id": 32,
@@ -257,7 +295,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/32/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/32/logo_light.png"
-    }
+    },
+    "website": "https://www.peugeot.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Peugeot"
   },
   {
     "id": 33,
@@ -270,7 +310,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/33/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/33/logo_light.png"
-    }
+    },
+    "website": "https://www.gran-turismo.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Gran_Turismo_(series)"
   },
   {
     "id": 34,
@@ -283,7 +325,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/34/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/34/logo_light.png"
-    }
+    },
+    "website": "https://www.renault.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Renault"
   },
   {
     "id": 35,
@@ -296,7 +340,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/35/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/35/logo_light.png"
-    }
+    },
+    "website": "https://www.ruf-automobile.de",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ruf_Automobile"
   },
   {
     "id": 36,
@@ -309,7 +355,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/36/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/36/logo_light.png"
-    }
+    },
+    "website": "https://www.shelby.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Shelby_American"
   },
   {
     "id": 38,
@@ -322,7 +370,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/38/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/38/logo_light.png"
-    }
+    },
+    "website": "https://www.subaru.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Subaru"
   },
   {
     "id": 39,
@@ -335,7 +385,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/39/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/39/logo_light.png"
-    }
+    },
+    "website": "https://www.suzuki.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Suzuki"
   },
   {
     "id": 43,
@@ -348,7 +400,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/43/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/43/logo_light.png"
-    }
+    },
+    "website": "https://www.toyota.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Toyota"
   },
   {
     "id": 44,
@@ -361,7 +415,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/44/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/44/logo_light.png"
-    }
+    },
+    "website": "https://www.tvr.co.uk",
+    "wikipedia": "https://en.wikipedia.org/wiki/TVR"
   },
   {
     "id": 46,
@@ -374,7 +430,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/46/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/46/logo_light.png"
-    }
+    },
+    "website": "https://www.volkswagen.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Volkswagen"
   },
   {
     "id": 49,
@@ -387,7 +445,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/49/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/49/logo_light.png"
-    }
+    },
+    "website": "https://www.infiniti.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Infiniti"
   },
   {
     "id": 50,
@@ -400,7 +460,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/50/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/50/logo_light.png"
-    }
+    },
+    "website": "https://www.lexus.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lexus"
   },
   {
     "id": 51,
@@ -413,7 +475,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/51/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/51/logo_light.png"
-    }
+    },
+    "website": "https://www.mini.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mini_(marque)"
   },
   {
     "id": 52,
@@ -426,7 +490,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/52/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/52/logo_light.png"
-    }
+    },
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Pontiac_(automobile)"
   },
   {
     "id": 55,
@@ -439,7 +505,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/55/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/55/logo_light.png"
-    }
+    },
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Plymouth_(automobile)"
   },
   {
     "id": 57,
@@ -452,7 +520,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/57/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/57/logo_light.png"
-    }
+    },
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Autobianchi"
   },
   {
     "id": 59,
@@ -465,7 +535,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/59/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/59/logo_light.png"
-    }
+    },
+    "website": "https://www.amuse.co.jp",
+    "wikipedia": null
   },
   {
     "id": 65,
@@ -478,7 +550,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/65/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/65/logo_light.png"
-    }
+    },
+    "website": "https://www.delorean.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/DeLorean_Motor_Company"
   },
   {
     "id": 69,
@@ -491,7 +565,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/69/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/69/logo_light.png"
-    }
+    },
+    "website": "https://www.volvocars.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Volvo_Cars"
   },
   {
     "id": 86,
@@ -504,7 +580,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/86/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/86/logo_light.png"
-    }
+    },
+    "website": "https://www.alpinecars.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Alpine_(automobile)"
   },
   {
     "id": 87,
@@ -517,7 +595,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/87/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/87/logo_light.png"
-    }
+    },
+    "website": "https://www.re-amemiya.co.jp",
+    "wikipedia": "https://en.wikipedia.org/wiki/RE_Amemiya"
   },
   {
     "id": 93,
@@ -530,7 +610,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/93/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/93/logo_light.png"
-    }
+    },
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/Chaparral_Cars"
   },
   {
     "id": 110,
@@ -543,7 +625,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/110/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/110/logo_light.png"
-    }
+    },
+    "website": "https://www.ferrari.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ferrari"
   },
   {
     "id": 112,
@@ -556,7 +640,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/112/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/112/logo_light.png"
-    }
+    },
+    "website": "https://www.lamborghini.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Lamborghini"
   },
   {
     "id": 113,
@@ -569,7 +655,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/113/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/113/logo_light.png"
-    }
+    },
+    "website": "https://www.bugatti.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bugatti"
   },
   {
     "id": 116,
@@ -582,7 +670,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/116/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/116/logo_light.png"
-    }
+    },
+    "website": "https://www.maserati.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Maserati"
   },
   {
     "id": 117,
@@ -595,7 +685,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/117/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/117/logo_light.png"
-    }
+    },
+    "website": "https://www.mclaren.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/McLaren_Automotive"
   },
   {
     "id": 119,
@@ -608,7 +700,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/119/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/119/logo_light.png"
-    }
+    },
+    "website": "https://www.tesla.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Tesla,_Inc."
   },
   {
     "id": 121,
@@ -621,7 +715,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/121/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/121/logo_light.png"
-    }
+    },
+    "website": "https://www.ktm.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/KTM"
   },
   {
     "id": 125,
@@ -634,7 +730,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/125/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/125/logo_light.png"
-    }
+    },
+    "website": "https://www.abarth.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Abarth"
   },
   {
     "id": 134,
@@ -647,7 +745,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/134/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/134/logo_light.png"
-    }
+    },
+    "website": "https://www.zagato.it",
+    "wikipedia": "https://en.wikipedia.org/wiki/Zagato"
   },
   {
     "id": 135,
@@ -660,7 +760,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/135/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/135/logo_light.png"
-    }
+    },
+    "website": "https://www.italdesign.it",
+    "wikipedia": "https://en.wikipedia.org/wiki/Italdesign_Giugiaro"
   },
   {
     "id": 136,
@@ -673,7 +775,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/136/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/136/logo_light.png"
-    }
+    },
+    "website": "https://www.porsche.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Porsche"
   },
   {
     "id": 140,
@@ -686,7 +790,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/140/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/140/logo_light.png"
-    }
+    },
+    "website": null,
+    "wikipedia": "https://en.wikipedia.org/wiki/De_Tomaso"
   },
   {
     "id": 141,
@@ -699,7 +805,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/141/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/141/logo_light.png"
-    }
+    },
+    "website": "https://www.radicalsportscars.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Radical_Sportscars"
   },
   {
     "id": 143,
@@ -712,7 +820,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/143/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/143/logo_light.png"
-    }
+    },
+    "website": "https://superformula.net",
+    "wikipedia": "https://en.wikipedia.org/wiki/Super_Formula"
   },
   {
     "id": 144,
@@ -725,7 +835,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/144/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/144/logo_light.png"
-    }
+    },
+    "website": "https://www.bfrmnla.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Briggs_Automotive_Company"
   },
   {
     "id": 146,
@@ -738,7 +850,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/146/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/146/logo_light.png"
-    }
+    },
+    "website": "https://www.jeep.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jeep"
   },
   {
     "id": 147,
@@ -751,7 +865,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/147/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/147/logo_light.png"
-    }
+    },
+    "website": "https://www.chrisholstromconcepts.com",
+    "wikipedia": null
   },
   {
     "id": 148,
@@ -764,7 +880,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/148/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/148/logo_light.png"
-    }
+    },
+    "website": null,
+    "wikipedia": null
   },
   {
     "id": 149,
@@ -777,7 +895,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/149/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/149/logo_light.png"
-    }
+    },
+    "website": "https://www.grfreddyracing.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/GReddy"
   },
   {
     "id": 150,
@@ -790,7 +910,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/150/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/150/logo_light.png"
-    }
+    },
+    "website": null,
+    "wikipedia": null
   },
   {
     "id": 151,
@@ -803,7 +925,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/151/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/151/logo_light.png"
-    }
+    },
+    "website": "https://www.roadstershop.com",
+    "wikipedia": null
   },
   {
     "id": 152,
@@ -816,7 +940,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/152/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/152/logo_light.png"
-    }
+    },
+    "website": "https://www.genesis.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Genesis_Motor"
   },
   {
     "id": 153,
@@ -829,7 +955,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/153/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/153/logo_light.png"
-    }
+    },
+    "website": "https://www.mercedes-amg.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mercedes-AMG"
   },
   {
     "id": 154,
@@ -842,7 +970,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/154/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/154/logo_light.png"
-    }
+    },
+    "website": "https://www.dsautomobiles.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/DS_Automobiles"
   },
   {
     "id": 155,
@@ -855,7 +985,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/155/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/155/logo_light.png"
-    }
+    },
+    "website": "https://www.nismo.co.jp",
+    "wikipedia": "https://en.wikipedia.org/wiki/Nismo"
   },
   {
     "id": 156,
@@ -868,7 +1000,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/156/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/156/logo_light.png"
-    }
+    },
+    "website": null,
+    "wikipedia": null
   },
   {
     "id": 157,
@@ -881,7 +1015,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/157/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/157/logo_light.png"
-    }
+    },
+    "website": null,
+    "wikipedia": null
   },
   {
     "id": 158,
@@ -894,7 +1030,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/158/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/158/logo_light.png"
-    }
+    },
+    "website": "https://www.bulgari.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Bulgari"
   },
   {
     "id": 159,
@@ -907,7 +1045,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/159/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/159/logo_light.png"
-    }
+    },
+    "website": "https://www.skoda-auto.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/%C5%A0koda_Auto"
   },
   {
     "id": 160,
@@ -920,7 +1060,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/160/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/160/logo_light.png"
-    }
+    },
+    "website": "https://www.shm-afeela.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Sony_Honda_Mobility"
   },
   {
     "id": 161,
@@ -933,7 +1075,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/161/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/161/logo_light.png"
-    }
+    },
+    "website": "https://www.opel.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Opel"
   },
   {
     "id": 162,
@@ -946,7 +1090,9 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/162/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/162/logo_light.png"
-    }
+    },
+    "website": "https://www.polestar.com",
+    "wikipedia": "https://en.wikipedia.org/wiki/Polestar"
   },
   {
     "id": 163,
@@ -959,6 +1105,8 @@
       "height": 480,
       "darkURL": "/assets/images/manufacturers/163/logo_dark.png",
       "lightURL": "/assets/images/manufacturers/163/logo_light.png"
-    }
+    },
+    "website": "https://www.minesjp.co.jp",
+    "wikipedia": null
   }
 ]
